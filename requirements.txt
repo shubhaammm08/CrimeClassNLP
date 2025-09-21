@@ -1,0 +1,15 @@
+# Streamlit for the app
+streamlit==1.38.0
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine learning
+scikit-learn==1.4.2
+
+# Interactive visualizations
+plotly==5.24.1
+
+# Optional: caching and utilities (comes with Streamlit, but safe to include)
+joblib==1.3.2
